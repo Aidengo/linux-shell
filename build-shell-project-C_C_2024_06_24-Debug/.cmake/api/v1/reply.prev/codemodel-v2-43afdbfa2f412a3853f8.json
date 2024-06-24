@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0e6e9d24066223434d1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "shell-project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "shell-project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shell-project-Debug-a8770754ae162cd026cd.json",
+					"name" : "shell-project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shell-project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shell-project_autogen-Debug-f5a2ae693ab4b8ccf102.json",
+					"name" : "shell-project_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/C++\u7a0b\u5e8f\u8bbe\u8ba1\u8bfe\u7a0b\u8bbe\u8ba1/shell/build-shell-project-C_C_2024_06_24-Debug",
+		"source" : "/root/C++\u7a0b\u5e8f\u8bbe\u8ba1\u8bfe\u7a0b\u8bbe\u8ba1/shell/shell-project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
