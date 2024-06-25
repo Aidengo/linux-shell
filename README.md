@@ -1,6 +1,8 @@
 # linux-shell
 # 一个 linux 下的 Shell 程序,具体功能如下:
 
+#小组成员：曾令国 曾聪 陈万银
+
 项目开发环境：manjaro  开发工具：QT creater
 
 1. shell 程序能够提供命令的输入,执行并显示执行结果的功能。
